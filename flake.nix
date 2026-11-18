@@ -5,7 +5,7 @@
     flake-parts.follows = "common/flake-parts";
     haskell-flake.follows = "common/haskell-flake";
 
-    beam-mysql.url = "github:roman-bodavskiy/beam-mysql?ref=ghc-98-upgrade";
+    beam-mysql.url = "github:nammayatri/beam-mysql?ref=ghc-98-upgrade";
     beam-mysql.inputs.nixpkgs.follows = "nixpkgs";
     beam-mysql.inputs.haskell-flake.follows = "haskell-flake";
   };

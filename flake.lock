@@ -52,15 +52,15 @@
         ]
       },
       "locked": {
-        "lastModified": 1794916951,
-        "narHash": "sha256-g1IV4OcSJWKu2D/UfmKOupvhHXG0+KHXNuu44AUAAdw=",
-        "owner": "roman-bodavskiy",
+        "lastModified": 1794996324,
+        "narHash": "sha256-mvlJstP8r20ZCTPfg4RlgAtiDl/ODhKTnOzzxXt+Npc=",
+        "owner": "nammayatri",
         "repo": "beam-mysql",
-        "rev": "913623fd3660532fb6779bcbc4de48a697fdf66d",
+        "rev": "386a5763791d8724a00e14ce5889ec7c8c7cfebd",
         "type": "github"
       },
       "original": {
-        "owner": "roman-bodavskiy",
+        "owner": "nammayatri",
         "ref": "ghc-98-upgrade",
         "repo": "beam-mysql",
         "type": "github"
@@ -832,15 +832,15 @@
         "word24": "word24"
       },
       "locked": {
-        "lastModified": 1794916562,
-        "narHash": "sha256-7Mo1xZYEF5iNX3ffJlk9huxdySj1rWGjyghHeFQnR1U=",
-        "owner": "roman-bodavskiy",
+        "lastModified": 1794995513,
+        "narHash": "sha256-wtTQ4k7MeA+DyFIEvkuLfau8Bo6oEowZfRz9Yl9VY8Y=",
+        "owner": "nammayatri",
         "repo": "mysql-haskell",
-        "rev": "ee7825c594546b30357ae6adf853e2a692490174",
+        "rev": "e7009ba1182e69ac79091489c21d7b982e657ecb",
         "type": "github"
       },
       "original": {
-        "owner": "roman-bodavskiy",
+        "owner": "nammayatri",
         "ref": "ghc-98-upgrade",
         "repo": "mysql-haskell",
         "type": "github"
@@ -1917,13 +1917,13 @@
       "locked": {
         "lastModified": 1794916317,
         "narHash": "sha256-0Jd4qyYiF8aghEgRx2Le4y1+2HJdAJDUCUcVjaAkmNs=",
-        "owner": "roman-bodavskiy",
+        "owner": "nammayatri",
         "repo": "tcp-streams",
         "rev": "bbdeafe860b392130a70e19c38f51134c5acd3ea",
         "type": "github"
       },
       "original": {
-        "owner": "roman-bodavskiy",
+        "owner": "nammayatri",
         "ref": "ghc-98-upgrade",
         "repo": "tcp-streams",
         "type": "github"
